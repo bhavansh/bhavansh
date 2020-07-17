@@ -1,4 +1,4 @@
-![](bannerLinkedIn.png)
+![](profile.jpg)
 
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to web development.
