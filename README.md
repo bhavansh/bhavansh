@@ -1,4 +1,4 @@
-![](profile.jpg) <!-- .element height="30%" width="30%" -->
+![](https://github.com/bhavansh/bhavansh/blob/master/profile.jpg) <!-- .element height="30%" width="30%" -->
 
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to web development.
