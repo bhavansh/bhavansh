@@ -57,11 +57,11 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 <summary>⚡<b> Recent Activity </b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/devscollab/devscollab.github.io/issues/23) in [devscollab/devscollab.github.io](https://github.com/devscollab/devscollab.github.io)
-2. 💪 Opened PR [#1483](https://github.com/zero-to-mastery/ZtM-Job-Board/pull/1483) in [zero-to-mastery/ZtM-Job-Board](https://github.com/zero-to-mastery/ZtM-Job-Board)
-3. 🗣 Commented on [#42](https://github.com/devscollab/skill-board-api/issues/42) in [devscollab/skill-board-api](https://github.com/devscollab/skill-board-api)
-4. 🎉 Merged PR [#1](https://github.com/bhavansh/Canvas-Creations/pull/1) in [bhavansh/Canvas-Creations](https://github.com/bhavansh/Canvas-Creations)
-5. 💪 Opened PR [#37](https://github.com/zero-to-mastery/Canvas-Creations/pull/37) in [zero-to-mastery/Canvas-Creations](https://github.com/zero-to-mastery/Canvas-Creations)
+1. 🗣 Commented on [#25](https://github.com/devscollab/devscollab.github.io/issues/25) in [devscollab/devscollab.github.io](https://github.com/devscollab/devscollab.github.io)
+2. 🗣 Commented on [#23](https://github.com/devscollab/devscollab.github.io/issues/23) in [devscollab/devscollab.github.io](https://github.com/devscollab/devscollab.github.io)
+3. 💪 Opened PR [#1483](https://github.com/zero-to-mastery/ZtM-Job-Board/pull/1483) in [zero-to-mastery/ZtM-Job-Board](https://github.com/zero-to-mastery/ZtM-Job-Board)
+4. 🗣 Commented on [#42](https://github.com/devscollab/skill-board-api/issues/42) in [devscollab/skill-board-api](https://github.com/devscollab/skill-board-api)
+5. 🎉 Merged PR [#1](https://github.com/bhavansh/Canvas-Creations/pull/1) in [bhavansh/Canvas-Creations](https://github.com/bhavansh/Canvas-Creations)
 <!--END_SECTION:activity-->
 
 
