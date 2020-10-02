@@ -52,6 +52,17 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 
 
 </details>
+
+<details>
+<summary>⚡<b> Recent Activity </b></summary>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
+</details>
+
+
 <details>
 <summary>📖<b> Blog posts </b></summary>
 
