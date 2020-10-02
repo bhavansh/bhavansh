@@ -57,6 +57,11 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 <summary>⚡<b> Recent Activity </b></summary>
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#37](https://github.com/zero-to-mastery/Canvas-Creations/pull/37) in [zero-to-mastery/Canvas-Creations](https://github.com/zero-to-mastery/Canvas-Creations)
+2. ❗️ Opened issue [#43](https://github.com/devscollab/skill-board-api/issues/43) in [devscollab/skill-board-api](https://github.com/devscollab/skill-board-api)
+3. ❗️ Opened issue [#42](https://github.com/devscollab/skill-board-api/issues/42) in [devscollab/skill-board-api](https://github.com/devscollab/skill-board-api)
+4. ❗️ Opened issue [#39](https://github.com/devscollab/skill-board-api/issues/39) in [devscollab/skill-board-api](https://github.com/devscollab/skill-board-api)
+5. 🎉 Merged PR [#37](https://github.com/devscollab/skill-board-api/pull/37) in [devscollab/skill-board-api](https://github.com/devscollab/skill-board-api)
 <!--END_SECTION:activity-->
 
 
