@@ -72,6 +72,7 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 <summary>📖<b> Blog posts </b></summary>
 
 <!-- BLOG-POST-LIST:START -->
+- [People and Economy Post Covid-19](https://medium.com/@bhavansh/people-and-economy-post-covid-19-1bf425be8317?source=rss-20d5606e644------2)
 <!-- BLOG-POST-LIST:END -->
 
 
