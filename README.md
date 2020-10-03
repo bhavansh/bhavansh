@@ -57,11 +57,11 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 <summary>⚡<b> Recent Activity </b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/devscollab/skill-board-api/issues/43) in [devscollab/skill-board-api](https://github.com/devscollab/skill-board-api)
-2. 💪 Opened PR [#52](https://github.com/devscollab/skill-board-api/pull/52) in [devscollab/skill-board-api](https://github.com/devscollab/skill-board-api)
-3. ❌ Closed PR [#51](https://github.com/devscollab/skill-board-api/pull/51) in [devscollab/skill-board-api](https://github.com/devscollab/skill-board-api)
-4. 💪 Opened PR [#51](https://github.com/devscollab/skill-board-api/pull/51) in [devscollab/skill-board-api](https://github.com/devscollab/skill-board-api)
-5. 🎉 Merged PR [#50](https://github.com/devscollab/skill-board-api/pull/50) in [devscollab/skill-board-api](https://github.com/devscollab/skill-board-api)
+1. 🗣 Commented on [#6](https://github.com/pccoeacm/all-calc/issues/6) in [pccoeacm/all-calc](https://github.com/pccoeacm/all-calc)
+2. ❌ Closed PR [#1483](https://github.com/zero-to-mastery/ZtM-Job-Board/pull/1483) in [zero-to-mastery/ZtM-Job-Board](https://github.com/zero-to-mastery/ZtM-Job-Board)
+3. 🗣 Commented on [#43](https://github.com/devscollab/skill-board-api/issues/43) in [devscollab/skill-board-api](https://github.com/devscollab/skill-board-api)
+4. 💪 Opened PR [#52](https://github.com/devscollab/skill-board-api/pull/52) in [devscollab/skill-board-api](https://github.com/devscollab/skill-board-api)
+5. ❌ Closed PR [#51](https://github.com/devscollab/skill-board-api/pull/51) in [devscollab/skill-board-api](https://github.com/devscollab/skill-board-api)
 <!--END_SECTION:activity-->
 
 
