@@ -57,11 +57,11 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 <summary>⚡<b> Recent Activity </b></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/devscollab/skill-board-api/pull/57) in [devscollab/skill-board-api](https://github.com/devscollab/skill-board-api)
-2. 💪 Opened PR [#55](https://github.com/devscollab/skill-board-api/pull/55) in [devscollab/skill-board-api](https://github.com/devscollab/skill-board-api)
-3. 🗣 Commented on [#6](https://github.com/pccoeacm/all-calc/issues/6) in [pccoeacm/all-calc](https://github.com/pccoeacm/all-calc)
-4. ❌ Closed PR [#1483](https://github.com/zero-to-mastery/ZtM-Job-Board/pull/1483) in [zero-to-mastery/ZtM-Job-Board](https://github.com/zero-to-mastery/ZtM-Job-Board)
-5. 🗣 Commented on [#43](https://github.com/devscollab/skill-board-api/issues/43) in [devscollab/skill-board-api](https://github.com/devscollab/skill-board-api)
+1. 🗣 Commented on [#25](https://github.com/devscollab/devscollab.github.io/issues/25) in [devscollab/devscollab.github.io](https://github.com/devscollab/devscollab.github.io)
+2. 🗣 Commented on [#25](https://github.com/devscollab/devscollab.github.io/issues/25) in [devscollab/devscollab.github.io](https://github.com/devscollab/devscollab.github.io)
+3. 🎉 Merged PR [#57](https://github.com/devscollab/skill-board-api/pull/57) in [devscollab/skill-board-api](https://github.com/devscollab/skill-board-api)
+4. 💪 Opened PR [#55](https://github.com/devscollab/skill-board-api/pull/55) in [devscollab/skill-board-api](https://github.com/devscollab/skill-board-api)
+5. 🗣 Commented on [#6](https://github.com/pccoeacm/all-calc/issues/6) in [pccoeacm/all-calc](https://github.com/pccoeacm/all-calc)
 <!--END_SECTION:activity-->
 
 
