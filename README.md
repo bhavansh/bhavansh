@@ -57,11 +57,11 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 <summary>⚡<b> Recent Activity </b></summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#47](https://github.com/devscollab/devscollab.github.io/pull/47) in [devscollab/devscollab.github.io](https://github.com/devscollab/devscollab.github.io)
-2. 🗣 Commented on [#25](https://github.com/devscollab/devscollab.github.io/issues/25) in [devscollab/devscollab.github.io](https://github.com/devscollab/devscollab.github.io)
+1. ❌ Closed PR [#47](https://github.com/devscollab/devscollab.github.io/pull/47) in [devscollab/devscollab.github.io](https://github.com/devscollab/devscollab.github.io)
+2. 💪 Opened PR [#47](https://github.com/devscollab/devscollab.github.io/pull/47) in [devscollab/devscollab.github.io](https://github.com/devscollab/devscollab.github.io)
 3. 🗣 Commented on [#25](https://github.com/devscollab/devscollab.github.io/issues/25) in [devscollab/devscollab.github.io](https://github.com/devscollab/devscollab.github.io)
-4. 🎉 Merged PR [#57](https://github.com/devscollab/skill-board-api/pull/57) in [devscollab/skill-board-api](https://github.com/devscollab/skill-board-api)
-5. 💪 Opened PR [#55](https://github.com/devscollab/skill-board-api/pull/55) in [devscollab/skill-board-api](https://github.com/devscollab/skill-board-api)
+4. 🗣 Commented on [#25](https://github.com/devscollab/devscollab.github.io/issues/25) in [devscollab/devscollab.github.io](https://github.com/devscollab/devscollab.github.io)
+5. 🎉 Merged PR [#57](https://github.com/devscollab/skill-board-api/pull/57) in [devscollab/skill-board-api](https://github.com/devscollab/skill-board-api)
 <!--END_SECTION:activity-->
 
 
