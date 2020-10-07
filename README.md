@@ -57,11 +57,11 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 <summary>⚡<b> Recent Activity </b></summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/devscollab/devscollab.github.io/issues/49) in [devscollab/devscollab.github.io](https://github.com/devscollab/devscollab.github.io)
-2. 💪 Opened PR [#49](https://github.com/devscollab/devscollab.github.io/pull/49) in [devscollab/devscollab.github.io](https://github.com/devscollab/devscollab.github.io)
-3. 🗣 Commented on [#25](https://github.com/devscollab/devscollab.github.io/issues/25) in [devscollab/devscollab.github.io](https://github.com/devscollab/devscollab.github.io)
+1. 🗣 Commented on [#23](https://github.com/devscollab/devscollab.github.io/issues/23) in [devscollab/devscollab.github.io](https://github.com/devscollab/devscollab.github.io)
+2. 🗣 Commented on [#49](https://github.com/devscollab/devscollab.github.io/issues/49) in [devscollab/devscollab.github.io](https://github.com/devscollab/devscollab.github.io)
+3. 💪 Opened PR [#49](https://github.com/devscollab/devscollab.github.io/pull/49) in [devscollab/devscollab.github.io](https://github.com/devscollab/devscollab.github.io)
 4. 🗣 Commented on [#25](https://github.com/devscollab/devscollab.github.io/issues/25) in [devscollab/devscollab.github.io](https://github.com/devscollab/devscollab.github.io)
-5. ❌ Closed PR [#47](https://github.com/devscollab/devscollab.github.io/pull/47) in [devscollab/devscollab.github.io](https://github.com/devscollab/devscollab.github.io)
+5. 🗣 Commented on [#25](https://github.com/devscollab/devscollab.github.io/issues/25) in [devscollab/devscollab.github.io](https://github.com/devscollab/devscollab.github.io)
 <!--END_SECTION:activity-->
 
 
