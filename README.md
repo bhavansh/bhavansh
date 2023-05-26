@@ -3,25 +3,46 @@
 I am recent engineering graduate looking for opportunities and collabaration in projects related to web development.
 <br/>
 <br/>
-Visitors <br/>
-[<img src ="https://profile-counter.glitch.me/bhavansh/count.svg" title="">](https://bhavansh.github.io/)
-<br/>
+<p align="left">
+  <a href="https://leetcode.com/bhavansh_11/">
+    <img src="https://cp-logo.vercel.app/leetcode/bhavansh_11/" alt="Leet code rating" />
+  </a>
+  <a href="https://codeforces.com/profile/bhavansh_11">
+    <img src="https://raw.githubusercontent.com/bhavansh/cf-stats/main/output/rating.svg" alt="Codeforces rating" />
+  </a>
+  <a href="https://stackoverflow.com/users/5921662/bhavansh_11">
+    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://github.com/bhavansh?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/bhavansh?color=green&logo=github">
+  </a>
+  <a href="https://github.com/bhavansh/">
+    <img src="https://komarev.com/ghpvc/?username=bhavansh" alt="visitors" />
+  </a>
+
+</p>
 
 ## Somethings about me:
 
--   💻 Working at <a href="https://www.ptc.com/en">PTC</a> as FSG Intern
+-   💻 Working at <a href="https://www.interactivebrokers.com/en/home.php">Interactive Brokers</a> as a Junior Software Developer
 -   🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**.
 -   🌱 I’m am interested in data science.
 -   🤝 I’m looking to collaborate on full stack projects.
 -   🦸‍♂️ Backend Tech Team member at [DSC PCCoE](https://github.com/dscpccoe)
 -   ⚡ Fun fact: Foodie
 
-## Stats📈
+## Github Stats📈
 
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavansh&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" alt="bhavansh" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhavansh&show_icons=true&theme=dark&locale=en&hide_border=true" alt="bhavansh" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavansh&theme=highcontrast&hide_border=true" alt="bhavansh" />
+<img width="30%" src="https://github-readme-stats.vercel.app/api?username=bhavansh&show_icons=true&theme=dark&locale=en&hide_border=true" alt="bhavansh" />
+<img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavansh&theme=highcontrast&hide_border=true" alt="bhavansh" />
+<img width="23%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavansh&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" alt="bhavansh" /> 
+</p>
+
+## Competitive Programming⚡
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/bhavansh_11?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/bhavansh/cf-stats/main/output/light_card.svg" />
 </p>
 
 <h2 align="left" id="bhavansh">Favorite Tech</h2>
