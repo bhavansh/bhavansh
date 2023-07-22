@@ -10,8 +10,8 @@ I am recent engineering graduate looking for opportunities and collabaration in 
   <a href="https://codeforces.com/profile/bhavansh_11">
     <img src="https://raw.githubusercontent.com/bhavansh/cf-stats/main/output/rating.svg" alt="Codeforces rating" />
   </a>
-  <a href="https://stackoverflow.com/users/5921662/bhavansh_11">
-    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
+  <a href="https://stackoverflow.com/users/13806440/bhavansh-gupta">
+    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/13806440?color=orange&label=reputation&logo=stackoverflow">
   </a>
   <a href="https://github.com/bhavansh?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/bhavansh?color=green&logo=github">
