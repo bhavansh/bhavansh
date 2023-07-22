@@ -247,8 +247,6 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 
 </p>
 
-[![Bhavansh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bhavansh&theme=react-dark)](https://github.com/bhavansh)
-
 <details>
  <summary><b>Summary 👨‍💻</b></summary>
 <br>
