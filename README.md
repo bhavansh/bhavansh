@@ -39,6 +39,9 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 <img width="23%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavansh&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" alt="bhavansh" /> 
 </p>
 
+## Public Profiles 📈
+[Google Cloud - Qwiklabs](https://www.cloudskillsboost.google/public_profiles/4f0e7579-d84b-45f3-9852-8b4263f9cfbf)
+
 ## Competitive Programming⚡
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/bhavansh_11?theme=light&font=Karma&ext=contest" />
